@@ -1,1 +1,1 @@
-# Attendace_Management_System
+# IPT2-MIDTERM-PROJECT-TEMPLATE
